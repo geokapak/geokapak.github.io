@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "New post EVERYONE!"
 date:   2023-03-21 10:56:54 +0100
 categories: jekyll update
